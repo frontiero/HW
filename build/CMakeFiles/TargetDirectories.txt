@@ -1,4 +1,0 @@
-E:/VSCode/Code/build/CMakeFiles/HW.dir
-E:/VSCode/Code/build/CMakeFiles/main.dir
-E:/VSCode/Code/build/CMakeFiles/edit_cache.dir
-E:/VSCode/Code/build/CMakeFiles/rebuild_cache.dir
