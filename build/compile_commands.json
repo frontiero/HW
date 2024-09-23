@@ -1,0 +1,14 @@
+[
+{
+  "directory": "E:/VSCode/Code/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe   -g -o CMakeFiles\\HW.dir\\src\\HW.c.obj -c E:\\VSCode\\Code\\src\\HW.c",
+  "file": "E:/VSCode/Code/src/HW.c",
+  "output": "CMakeFiles/HW.dir/src/HW.c.obj"
+},
+{
+  "directory": "E:/VSCode/Code/build",
+  "command": "D:\\mingw64\\bin\\gcc.exe  @CMakeFiles/main.dir/includes_C.rsp -g -o CMakeFiles\\main.dir\\src\\main.c.obj -c E:\\VSCode\\Code\\src\\main.c",
+  "file": "E:/VSCode/Code/src/main.c",
+  "output": "CMakeFiles/main.dir/src/main.c.obj"
+}
+]
