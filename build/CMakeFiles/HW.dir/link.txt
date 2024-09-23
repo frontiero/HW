@@ -1,0 +1,2 @@
+D:\mingw64\bin\ar.exe qc libHW.a CMakeFiles/HW.dir/src/HW.c.obj
+D:\mingw64\bin\ranlib.exe libHW.a
